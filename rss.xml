@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[La Persé]]></title>
         <description><![CDATA[La Persé]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/la-perse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 16:49:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 16:50:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/la-perse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/611008c9-78cf-4d87-b070-c7542790acef.tiff">]]></description>
-            <link>undefined1f4d914d-b97f-480d-a7b6-44510e5ae7bb/index.html</link>
+            <link>https://thegrid.ai/la-perse/1f4d914d-b97f-480d-a7b6-44510e5ae7bb/index.html</link>
             <guid isPermaLink="false">1f4d914d-b97f-480d-a7b6-44510e5ae7bb</guid>
-            <pubDate>Thu, 19 May 2016 16:49:02 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 16:49:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
