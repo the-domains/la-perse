@@ -1,6 +1,6 @@
 name: La Persé
 favicon: null
-layout_spectrum: 0.01565
+layout_spectrum: 0.50435
 typography_spectrum: 0.18387
 title: LA PERSÉ - THE MOST TALKED ABOUT CLUB NIGHT IN HELSINKI
 cta:
@@ -22,8 +22,8 @@ color:
     - '#eaf3fc'
     - '#5c592e'
     - '#c2b84a'
-  brandStrength: 0.9375
+  brandStrength: 0.1875
   lightness: 0.5
-  saturation: 0
+  saturation: 0.9375
   rhythmicContrast: 0.75
 purpose: []
