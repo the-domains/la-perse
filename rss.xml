@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[La Persé]]></title>
+        <description><![CDATA[La Persé]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 16:23:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>La Persé 1-year B-day party at Rosegarden, 2006 with cult icon Prinsess Julia https://www.youtube.com/watch?v=XwCjT7Npqo8</p>]]></description>
+            <link>undefinedla-perse-1-year-b-day-party-at-rosegarden-2006-with-cult-ic/index.html</link>
+            <guid isPermaLink="false">2affb206-20e8-4560-9a54-691adcaaf5ee</guid>
+            <pubDate>Thu, 19 May 2016 16:23:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
